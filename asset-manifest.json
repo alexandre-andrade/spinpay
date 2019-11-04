@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/tempspinpay/static/js/main.f1ac9193.chunk.js",
+    "main.js.map": "/tempspinpay/static/js/main.f1ac9193.chunk.js.map",
+    "runtime-main.js": "/tempspinpay/static/js/runtime-main.85d51986.js",
+    "runtime-main.js.map": "/tempspinpay/static/js/runtime-main.85d51986.js.map",
+    "static/js/2.66eb1b80.chunk.js": "/tempspinpay/static/js/2.66eb1b80.chunk.js",
+    "static/js/2.66eb1b80.chunk.js.map": "/tempspinpay/static/js/2.66eb1b80.chunk.js.map",
+    "index.html": "/tempspinpay/index.html",
+    "precache-manifest.45be4e4e798018379c10c8df2d0ee124.js": "/tempspinpay/precache-manifest.45be4e4e798018379c10c8df2d0ee124.js",
+    "service-worker.js": "/tempspinpay/service-worker.js",
+    "static/media/COG.gif": "/tempspinpay/static/media/COG.491279e3.gif",
+    "static/media/Laptop.webm": "/tempspinpay/static/media/Laptop.43cee55d.webm",
+    "static/media/Mobile.webm": "/tempspinpay/static/media/Mobile.aafc5106.webm",
+    "static/media/comp.png": "/tempspinpay/static/media/comp.6b392da5.png",
+    "static/media/dev-img.png": "/tempspinpay/static/media/dev-img.5117a5cd.png",
+    "static/media/mobile-menu-icon.svg": "/tempspinpay/static/media/mobile-menu-icon.91a23fbc.svg",
+    "static/media/mobile_video.mp4": "/tempspinpay/static/media/mobile_video.3720b5c3.mp4",
+    "static/media/phone.png": "/tempspinpay/static/media/phone.9cc7a323.png",
+    "static/media/web_video.mp4": "/tempspinpay/static/media/web_video.0305f092.mp4"
+  }
+}

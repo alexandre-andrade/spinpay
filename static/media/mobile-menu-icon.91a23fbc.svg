@@ -1,0 +1,12 @@
+<svg id="hamburger" xmlns="http://www.w3.org/2000/svg" width="63" height="53" viewBox="0 0 63 53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" y="22" width="37" height="9"/>
+  <rect id="Rectangle_11_copy" data-name="Rectangle 11 copy" class="cls-1" width="63" height="9"/>
+  <rect id="Rectangle_11_copy_2" data-name="Rectangle 11 copy 2" class="cls-1" y="44" width="63" height="9"/>
+</svg>
